@@ -1,0 +1,36 @@
+{
+  "name": "pjax",
+  "version": "0.1.2",
+  "description": "Boost browsing experience using Ajax navigation (+ Push state)",
+  "main": "src/pjax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoOx/pjax.git"
+  },
+  "keywords": [
+    "pjax",
+    "push",
+    "state",
+    "ajax",
+    "navigation",
+    "transition",
+    "animation"
+  ],
+  "author": "MoOx <m@moox.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoOx/pjax/issues"
+  },
+  "homepage": "https://github.com/MoOx/pjax",
+  "devDependencies": {
+    "jshint-stylish": "^0.1.5",
+    "gulp-jscs": "^0.3.2",
+    "gulp-plumber": "^0.5.6",
+    "gulp": "^3.5.6",
+    "gulp-jshint": "^1.5.1",
+    "buildbranch": "0.0.1"
+  }
+}

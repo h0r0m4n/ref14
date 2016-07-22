@@ -1,0 +1,10 @@
+# Specify intentionally untracked files.
+
+Thumbs.db
+.DS_Store
+
+*.diff
+*.patch
+*copy.*
+*error.*
+_scratch

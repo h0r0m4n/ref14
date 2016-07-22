@@ -1,0 +1,14 @@
+{
+  "name": "accessifyhtml5",
+  "homepage": "https://github.com/yatil/accessifyhtml5.js",
+  "_release": "d0e2f7bfab",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d0e2f7bfabf4e5ed035b65c1b2d335ad00cf36d4"
+  },
+  "_source": "git://github.com/yatil/accessifyhtml5.js.git",
+  "_target": "*",
+  "_originalSource": "accessifyhtml5",
+  "_direct": true
+}
